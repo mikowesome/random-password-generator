@@ -70,4 +70,7 @@ body {
     height: 39px;
     border: 1px solid #273549;
     border-radius: 8px;
+    text-align: center;
+    padding-top: 8px;
+    font-family: 'Inter', sans-serif;
 }
