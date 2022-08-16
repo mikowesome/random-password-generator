@@ -17,3 +17,11 @@ Manipulating DOM to display the generated characters
 instructions: https://scrimba.com/learn/learnjavascript/solo-project-password-generator-cR9B46Sg
 
 design: https://www.figma.com/file/NEj9JDycMjF3XKXq7swoc9/Random-Password-Generator-(New-version)
+
+Stretch goals:
+
+Ability to set password length
+
+Add "copy-on-click"
+
+Toggle "symbols" and "numbers" on/off
